@@ -1,1 +1,1 @@
-# US-Houshold-Income-Classification
+# US-Household-Income-Classification
